@@ -23,9 +23,7 @@ A modern and responsive e-commerce web application built with **React.js**, focu
 - JavaScript (ES6+)
 - HTML5
 - CSS3
-- Bootstrap / Tailwind (if used)
-- Vercel (Deployment)
+- Tailwind
 
----
 
-## 📁 Project Structure
+
